@@ -67,19 +67,3 @@ footer:
     - label: "Scilympiad"
       icon: "fas fa-fw fa-link"
       url: "https://scilympiad.com/crabso"
-
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: splash
-      author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
