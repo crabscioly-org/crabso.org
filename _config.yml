@@ -69,23 +69,12 @@ footer:
       url: "https://scilympiad.com/crabso"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
-      layout: single
+      layout: splash
       author_profile: true
 
 category_archive:
