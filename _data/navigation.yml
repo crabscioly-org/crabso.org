@@ -1,3 +1,7 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Tournament"
+    url: /tournament/
+  - title: "Registration"
+    url: /registration/
