@@ -51,7 +51,7 @@ feature_row6:
     url: "#test-link"
     btn_label: "More Info"
     btn_class: "btn--primary"
-
+---
 
 
 {% include feature_row id="intro" type="center" %}

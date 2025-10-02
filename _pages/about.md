@@ -41,6 +41,8 @@ feature_row2:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     image_path: /assets/images/crabso.png
     alt: "placeholder image 2"
+    btn_label: "More Info"
+    btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/crabso.png
     alt: "placeholder image 1"
@@ -58,6 +60,8 @@ feature_row3:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     image_path: /assets/images/crabso.png
     alt: "placeholder image 2"
+    btn_label: "More Info"
+    btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/crabso.png
     alt: "placeholder image 1"
@@ -75,3 +79,16 @@ feature_row4:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     image_path: /assets/images/crabso.png
     alt: "placeholder image 2"
+    btn_label: "More Info"
+    btn_class: "btn--primary"
+--- 
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
