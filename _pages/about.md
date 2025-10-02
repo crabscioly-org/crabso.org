@@ -1,10 +1,8 @@
 ---
-# permalink: /about/
-# title: "About"
+permalink: /about/
+title: "About"
 
-title: "CrabSO"
 layout: splash
-permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
