@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+# permalink: /about/
+# title: "About"
 
 title: "CrabSO"
 layout: splash
