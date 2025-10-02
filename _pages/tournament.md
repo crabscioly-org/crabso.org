@@ -1,5 +1,5 @@
 ---
-title: "CrabSO"
+title: "Tournament"
 layout: splash
 permalink: /tournament/
 header:
