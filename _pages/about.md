@@ -120,11 +120,13 @@ gallery 5:
       # Add more images as needed
 --- 
 
-{% include gallery id="gallery" caption="Optional caption for the gallery." %}
+{% include feature_row id="intro" type="center" %}
+
+
+# {% include gallery id="gallery" caption="Optional caption for the gallery." %}
 
 {% include gallery id="gallery" layout="third" caption="3 images side-by-side." %}
 
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
