@@ -100,14 +100,17 @@ galleryCD1:
         image_path: /assets/images/crabso.png
         alt: "Image 1 description"
         title: "Image 1 title (optional)"
+        excerpt: "1This is some sample content that goes here with **Markdown** formatting."
       - url: testing 2
         image_path: /assets/images/crabso.png
         alt: "Image 2 description"
         title: "Image 2 title (optional)"
+        excerpt: "2This is some sample content that goes here with **Markdown** formatting."
       - url: testing 3
         image_path: /assets/images/crabso.png
         alt: "Image 3 description"
         title: "Image 3 title (optional)"
+        excerpt: "3This is some sample content that goes here with **Markdown** formatting."
       # Add more images as needed
 
 galleryD1:
@@ -140,7 +143,7 @@ galleryD2:
         title: "Image 3 title (optional)"
       # Add more images as needed  
 
-gallery5:
+ES:
       - url: testing
         image_path: /assets/images/crabso.png
         alt: "Image 1 description"
@@ -149,6 +152,18 @@ gallery5:
         image_path: /assets/images/crabso.png
         alt: "Image 2 description"
         title: "Image 2 title (optional)"
+      - url: testing 3
+        image_path: /assets/images/crabso.png
+        alt: "Image 3 description"
+        title: "Image 3 title (optional)"
+      - url: testing 4
+        image_path: /assets/images/crabso.png
+        alt: "Image 4 description"
+        title: "Image 4 title (optional)"
+      - url: testing 5
+        image_path: /assets/images/crabso.png
+        alt: "Image 5 description"
+        title: "Image 5 title (optional)"
       - url: testing 3
         image_path: /assets/images/crabso.png
         alt: "Image 3 description"
@@ -191,7 +206,7 @@ Event_Supervisors_Title:
 {% include feature_row id="Event_Supervisors_Title" type="center" %}
 
 
-{% include gallery id="gallery5" layout="quarter" %}
+{% include gallery id="ES" layout="quarter" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
