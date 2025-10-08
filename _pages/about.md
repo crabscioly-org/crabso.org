@@ -118,13 +118,21 @@ gallery5:
         alt: "Image 5 description"
         title: "Image 5 title (optional)"
       # Add more images as needed
+
+
+Cheif_Director_Title:
+ - title: "Chief Director Title"
+
 --- 
+
+{% include feature_row id="Cheif_Director_Title" type="center" %}
+
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
-# {% include gallery id="gallery" caption="Optional caption for the gallery." %}
+{% include gallery id="gallery" caption="Optional caption for the gallery." %}
 
 {% include gallery id="gallery" layout="third" caption="3 images side-by-side." %}
 
