@@ -1,3 +1,13 @@
+# Updating
+
+Please please please remember to use branches; nobody should be committing straight to main! 
+
+# Running Locally
+
+```bundle install
+bundle exec jekyll serve
+```
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
