@@ -95,6 +95,50 @@ gallery:
         title: "Image 3 title (optional)"
       # Add more images as needed
 
+galleryCD1:
+      - url: testing
+        image_path: /assets/images/crabso.png
+        alt: "Image 1 description"
+        title: "Image 1 title (optional)"
+      - url: testing 2
+        image_path: /assets/images/crabso.png
+        alt: "Image 2 description"
+        title: "Image 2 title (optional)"
+      - url: testing 3
+        image_path: /assets/images/crabso.png
+        alt: "Image 3 description"
+        title: "Image 3 title (optional)"
+      # Add more images as needed
+
+galleryD1:
+      - url: testing
+        image_path: /assets/images/crabso.png
+        alt: "Image 1 description"
+        title: "Image 1 title (optional)"
+      - url: testing 2
+        image_path: /assets/images/crabso.png
+        alt: "Image 2 description"
+        title: "Image 2 title (optional)"
+      - url: testing 3
+        image_path: /assets/images/crabso.png
+        alt: "Image 3 description"
+        title: "Image 3 title (optional)"
+      # Add more images as needed  
+
+galleryD2:
+      - url: testing
+        image_path: /assets/images/crabso.png
+        alt: "Image 1 description"
+        title: "Image 1 title (optional)"
+      - url: testing 2
+        image_path: /assets/images/crabso.png
+        alt: "Image 2 description"
+        title: "Image 2 title (optional)"
+      - url: testing 3
+        image_path: /assets/images/crabso.png
+        alt: "Image 3 description"
+        title: "Image 3 title (optional)"
+      # Add more images as needed  
 
 gallery5:
       - url: testing
@@ -121,22 +165,31 @@ gallery5:
 
 
 Cheif_Director_Title:
- - title: "Chief Director Title"
+ - title: "Chief Directors"
 
+Director_Title:
+ - title: "Super Cool Directors"
 --- 
-
-{% include feature_row id="Cheif_Director_Title" type="center" %}
-
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
+{% include feature_row id="Cheif_Director_Title" type="center" %}
+
+{% include gallery id="galleryCD1" layout="third" caption="3 images side-by-side." %}
+
+{% include feature_row id="Director_Title" type="center" %}
+
+{% include gallery id="galleryD1" layout="third" caption="3 images side-by-side." %}
+
+{% include gallery id="galleryD2" layout="third" caption="3 images side-by-side." %}
+
 {% include gallery id="gallery" caption="Optional caption for the gallery." %}
 
-{% include gallery id="gallery" layout="third" caption="3 images side-by-side." %}
 
-{% include gallery id="gallery" layout="third" caption="3 images side-by-side." %}
+
+
 
 {% include gallery id="gallery" layout="fifth" caption="5 images side-by-side." %}
 
