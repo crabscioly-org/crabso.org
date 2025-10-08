@@ -191,10 +191,7 @@ Event_Supervisors_Title:
 {% include feature_row id="Event_Supervisors_Title" type="center" %}
 
 
-{% include gallery id="gallery" caption="Optional caption for the gallery." %}
-
-
-{% include gallery id="gallery" layout="fifth" caption="5 images side-by-side." %}
+{% include gallery id="gallery" layout="quarter" caption="5 images side-by-side." %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
