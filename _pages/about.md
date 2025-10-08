@@ -91,8 +91,8 @@ gallery:
         title: "Image 2 title (optional)"
       - url: testing 3
         image_path: /assets/images/crabso.png
-        alt: "Image 2 description"
-        title: "Image 2 title (optional)"
+        alt: "Image 3 description"
+        title: "Image 3 title (optional)"
       # Add more images as needed
 --- 
 
@@ -108,4 +108,4 @@ gallery:
 
 {% include gallery id="gallery" caption="Optional caption for the gallery." %}
 
-{% include gallery id="gallery" layout="half" caption="Two images side-by-side." %}
+{% include gallery id="gallery" layout="third" caption="Two images side-by-side." %}
