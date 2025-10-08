@@ -89,6 +89,10 @@ gallery:
         image_path: /assets/images/crabso.png
         alt: "Image 2 description"
         title: "Image 2 title (optional)"
+      - url: testing 3
+        image_path: /assets/images/crabso.png
+        alt: "Image 2 description"
+        title: "Image 2 title (optional)"
       # Add more images as needed
 --- 
 
