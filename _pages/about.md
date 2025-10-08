@@ -96,7 +96,7 @@ gallery:
       # Add more images as needed
 
 
-gallery 5:
+gallery5:
       - url: testing
         image_path: /assets/images/crabso.png
         alt: "Image 1 description"
@@ -122,13 +122,15 @@ gallery 5:
 
 {% include feature_row id="intro" type="center" %}
 
+{% include feature_row %}
 
 # {% include gallery id="gallery" caption="Optional caption for the gallery." %}
 
 {% include gallery id="gallery" layout="third" caption="3 images side-by-side." %}
 
+{% include gallery id="gallery" layout="third" caption="3 images side-by-side." %}
 
-{% include feature_row %}
+{% include gallery id="gallery" layout="fifth" caption="5 images side-by-side." %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
