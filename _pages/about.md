@@ -169,6 +169,9 @@ Cheif_Director_Title:
 
 Director_Title:
  - title: "Super Cool Directors"
+
+Event_Supervisors_Title:
+ - title: "Event Supervisors"
 --- 
 
 {% include feature_row id="intro" type="center" %}
@@ -185,10 +188,10 @@ Director_Title:
 
 {% include gallery id="galleryD2" layout="third" caption="3 images side-by-side." %}
 
+{% include feature_row id="Event_Supervisors_Title" type="center" %}
+
+
 {% include gallery id="gallery" caption="Optional caption for the gallery." %}
-
-
-
 
 
 {% include gallery id="gallery" layout="fifth" caption="5 images side-by-side." %}
