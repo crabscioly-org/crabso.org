@@ -96,6 +96,8 @@ gallery:
       # Add more images as needed
 --- 
 
+{% include gallery id="gallery" layout="third" caption="Two images side-by-side." %}
+
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
@@ -108,4 +110,3 @@ gallery:
 
 {% include gallery id="gallery" caption="Optional caption for the gallery." %}
 
-{% include gallery id="gallery" layout="third" caption="Two images side-by-side." %}
