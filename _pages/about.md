@@ -94,9 +94,35 @@ gallery:
         alt: "Image 3 description"
         title: "Image 3 title (optional)"
       # Add more images as needed
+
+
+gallery 5:
+      - url: testing
+        image_path: /assets/images/crabso.png
+        alt: "Image 1 description"
+        title: "Image 1 title (optional)"
+      - url: testing 2
+        image_path: /assets/images/crabso.png
+        alt: "Image 2 description"
+        title: "Image 2 title (optional)"
+      - url: testing 3
+        image_path: /assets/images/crabso.png
+        alt: "Image 3 description"
+        title: "Image 3 title (optional)"
+      - url: testing 4
+        image_path: /assets/images/crabso.png
+        alt: "Image 4 description"
+        title: "Image 4 title (optional)"
+      - url: testing 5
+        image_path: /assets/images/crabso.png
+        alt: "Image 5 description"
+        title: "Image 5 title (optional)"
+      # Add more images as needed
 --- 
 
-{% include gallery id="gallery" layout="third" caption="Two images side-by-side." %}
+{% include gallery id="gallery" caption="Optional caption for the gallery." %}
+
+{% include gallery id="gallery" layout="third" caption="3 images side-by-side." %}
 
 {% include feature_row id="intro" type="center" %}
 
@@ -108,5 +134,4 @@ gallery:
 
 {% include feature_row id="feature_row4" type="center" %}
 
-{% include gallery id="gallery" caption="Optional caption for the gallery." %}
 
