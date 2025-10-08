@@ -79,6 +79,17 @@ feature_row4:
     alt: "placeholder image 2"
     btn_label: "More Info"
     btn_class: "btn--primary"
+
+gallery:
+      - url: testing
+        image_path: /assets/images/crabso.png
+        alt: "Image 1 description"
+        title: "Image 1 title (optional)"
+      - url: testing 2
+        image_path: /assets/images/crabso.png
+        alt: "Image 2 description"
+        title: "Image 2 title (optional)"
+      # Add more images as needed
 --- 
 
 {% include feature_row id="intro" type="center" %}
@@ -90,3 +101,7 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
+
+{% include gallery id="gallery" caption="Optional caption for the gallery." %}
+
+{% include gallery id="gallery" layout="half" caption="Two images side-by-side." %}
