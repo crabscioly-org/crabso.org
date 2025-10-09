@@ -101,6 +101,8 @@ Event_Supervisors_Title:
 
 {% include feature_row %}
 
+{% include feature_row id="Director_Title" type="center" %}
+
 {% include gallery id="galleryD1" layout="third" %}
 
 {% include gallery id="galleryD2" layout="third"  %}
