@@ -54,7 +54,7 @@ galleryD3:
         alt: "Image 2 description"
         title: "Image 2 title (optional)"
       - url: about
-        image_path: /assets/images/directors/chloe.jpg
+        image_path: /assets/images/crabso.png
         alt: "Image 3 description"
         title: "Image 3 title (optional)"
       # Add more images as needed  
