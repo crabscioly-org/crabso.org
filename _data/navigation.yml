@@ -5,3 +5,5 @@ main:
     url: /tournament/
   - title: "Registration"
     url: /registration/
+  - title: "Archive"
+    url: /archive/

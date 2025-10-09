@@ -28,11 +28,6 @@ galleryD1:
         alt: "Reema"
         title: "Reema"
 
-galleryD1names:
-      - title: "Sahana"
-      - alt: "Ananya"
-      - url: "Reema"
-
 galleryD2:
       - url: about
         image_path: /assets/images/directors/anna.jpg
@@ -107,8 +102,6 @@ Event_Supervisors_Title:
 {% include feature_row %}
 
 {% include gallery id="galleryD1" layout="third" %}
-
-{% include gallery id="galleryD1names" layout="third" %}
 
 {% include gallery id="galleryD2" layout="third"  %}
 
