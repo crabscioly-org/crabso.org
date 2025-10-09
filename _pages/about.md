@@ -17,47 +17,49 @@ intro:
 galleryD1:
       - url: about
         image_path: /assets/images/directors/sahana.jpg
-        alt: "Image 1 description"
-        title: "Image 1 title (optional)"
+        alt: "Sahana"
+        title: "Sahana"
       - url: about
         image_path: /assets/images/directors/ananya.jpg
-        alt: "Image 2 description"
-        title: "Image 2 title (optional)"
+        alt: "Ananya"
+        title: "Ananya"
       - url: about
         image_path: /assets/images/directors/reema.jpg
-        alt: "Image 3 description"
-        title: "Image 3 title (optional)"
-      # Add more images as needed  
+        alt: "Reema"
+        title: "Reema"
+
+galleryD1names:
+      - title: "Sahana"
+      - alt: "Ananya"
+      - url: "Reema"
 
 galleryD2:
       - url: about
         image_path: /assets/images/directors/anna.jpg
-        alt: "Image 1 description"
-        title: "Image 1 title (optional)"
+        alt: "Anna"
+        title: "Anna"
       - url: about
         image_path: /assets/images/directors/rishit.jpg
-        alt: "Image 2 description"
-        title: "Image 2 title (optional)"
+        alt: "Rishit"
+        title: "Rishit"
       - url: about
         image_path: /assets/images/directors/aadarsh.jpg
-        alt: "Image 3 description"
-        title: "Image 3 title (optional)"
-      # Add more images as needed  
+        alt: "Aadarsh"
+        title: "Aadarsh"
 
 galleryD3:
       - url: about
         image_path: /assets/images/directors/maya.jpg
-        alt: "Image 1 description"
-        title: "Image 1 title (optional)"
+        alt: "Maya"
+        title: "Maya"
       - url: about
         image_path: /assets/images/directors/catherine.jpg
-        alt: "Image 2 description"
-        title: "Image 2 title (optional)"
+        alt: "Catherine"
+        title: "Catherine"
       - url: about
         image_path: /assets/images/crabso.png
-        alt: "Image 3 description"
-        title: "Image 3 title (optional)"
-      # Add more images as needed  
+        alt: "Chloe"
+        title: "Chloe"
 
 ES:
       - url: about
@@ -92,7 +94,6 @@ ES:
         image_path: /assets/images/crabso.png
         alt: "Image 5 description"
         title: "Image 5 title (optional)"
-      # Add more images as needed
 
 Director_Title:
  - title: "Tournament Directors"
@@ -106,6 +107,8 @@ Event_Supervisors_Title:
 {% include feature_row %}
 
 {% include gallery id="galleryD1" layout="third" %}
+
+{% include gallery id="galleryD1names" layout="third" %}
 
 {% include gallery id="galleryD2" layout="third"  %}
 
