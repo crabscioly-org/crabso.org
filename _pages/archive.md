@@ -15,7 +15,7 @@ feature_row2:
   - image_path: /assets/images/crabso.png
     alt: "placeholder image 2"
     title: "2025 tests & keys"
-    excerpt: 'Insert Link here`type="left"`'
+    excerpt: 'https://drive.google.com/drive/folders/1VNxpHZoQ18YKLYKOq0fyxLdHUOxY5_oV?usp=sharing`'
     url: "#test-link"
     btn_label: "More Info"
     btn_class: "btn--primary"
@@ -30,7 +30,7 @@ feature_row2:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="center" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
