@@ -11,6 +11,12 @@ header:
   caption: "Theme credit: Minimal Mistakes"
   excerpt: "Test"
 excerpt: "Maryland Division B Science Olympiad Invitational"
+feature_row2:
+  - image_path: /assets/images/crabso.png
+    alt: "placeholder image 2"
+    title: "Registration Opens Soon"
+    excerpt: 'Sign up for Email List:  `type="left"`'
+
 ---
 
 ##### CrabSO was created in mind to give Division B (middle school) students another invitational to compete at before their regionals and/or state competitions as well as provide Marylanders another in-state competition.
