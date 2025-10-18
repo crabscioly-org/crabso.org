@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/crabso.png
 excerpt: "CrabSO was created to give Division B competitors another invitational to compete at before their regional and/or state competitions. CrabSO also provides Marylanders with an addition option for in-state competitions."
 
-galleryD1:
+picRowD1:
   - image_path: /assets/images/directors/sahana.jpg
     alt: "Sahana"
     title: "Sahana"
@@ -20,7 +20,7 @@ galleryD1:
     alt: "Reema"
     title: "Reema"
 
-galleryD2:
+picRowD2:
   - image_path: /assets/images/crabso.png
     alt: "Anna"
     title: "Anna"
@@ -31,7 +31,7 @@ galleryD2:
     alt: "Aadarsh"
     title: "Aadarsh"
 
-galleryD3:
+picRowD3:
   - image_path: /assets/images/directors/maya.jpg
     alt: "Maya"
     title: "Maya"
@@ -50,8 +50,8 @@ CrabSO is part of Chesapeake Stem Connections, a 501(c)(3) registered Maryland b
 
 {% include feature_row id="Director_Title" type="center" %}
 
-{% include feature_row id="galleryD1" layout="third" %}
+{% include feature_row id="picRowD1" layout="third" %}
 
-{% include feature_row id="galleryD2" layout="third"  %}
+{% include feature_row id="picRowD2" layout="third"  %}
 
-{% include feature_row id="galleryD3" layout="third"  %}
+{% include feature_row id="picRowD3" layout="third"  %}
