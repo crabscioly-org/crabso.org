@@ -1,0 +1,29 @@
+---
+---
+<!DOCTYPE html>
+<html>
+<!-- sourced from https://stackoverflow.com/a/32548287 and http://insider.zone, modified by LMN1460 -->
+<!-- note to site maintainers: when writing the definition files for new short links you MUST wrap the link in nomarkdown tags and add a backslash at the end -->
+<!-- I cannot for the life of me figure out how to make kramdown stop passing that newline at the end of passed content without messing with server backend config -->
+<!-- which we don't have access to because this is github pages and we can't have nice things -->
+<!-- so you have to escape the input itself or else everything will break -->
+<head>
+<link rel="canonical" href="{{ content }}"/>
+<noscript>
+    <meta http-equiv="refresh" content="0"; URL="{{ content }}">
+</noscript>
+<!--[if lt IE 9]><script type="text/javascript">var IE_fix=true;</script><![endif]-->
+<script type="text/javascript">
+    var url = "{{ content }}";
+    if(typeof IE_fix != "undefined") // IE8 and lower fix to pass the http referer
+    {
+        document.write("Redirecting..."); // Don't remove this line or appendChild() will fail because it is called before document.onload to make the redirect as fast as possible. Nobody will see this text, it is only a tech fix.
+        var referLink = document.createElement("a");
+        referLink.href = url;
+        document.body.appendChild(referLink);
+        referLink.click();
+    }
+    else { window.location.replace(url); } // All other browsers
+</script>
+</head>
+</html>
