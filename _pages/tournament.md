@@ -14,8 +14,8 @@ excerpt: "Following Page will be updated with more information as we get closer 
 feature_row2:
   - image_path: /assets/images/crabso.png
     alt: "placeholder image 2"
-    title: "Registration"
-    excerpt: 'Registration Opens ##/##/## `type="left"`'
+    title: "Venue"
+    excerpt: 'Address: '
     url: "#test-link"
     btn_label: "More Info"
     btn_class: "btn--primary"
