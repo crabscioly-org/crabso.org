@@ -6,34 +6,22 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/crabso.png
-  cta_label: "Download"
-  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Theme credit: Minimal Mistakes"
-  excerpt: "Test"
 excerpt: "Maryland Division B Science Olympiad Invitational"
-feature_row2:
-  - image_path: /assets/images/crabso.png
-    alt: "placeholder image 2"
+
+register_signups:
     title: "Registration Opens 11/22"
-    excerpt: 'Registration will be due December 10th 11:59 pm. Sign up here: <insert link>: `'
-feature_row3:
-  - image_path: /assets/images/crabso.png
-    alt: "placeholder image 2"
+    excerpt: 'Registration will be due December 10th 11:59 pm.'
+es_signups:
+  - title: "2025 Tests & Keys"
+    btn_label: "ES Sign-Ups"
+    btn_class: "btn--primary"
+    url: /es-link
     title: "Event Supervisor Application Opens 10/20"
-    excerpt: 'Sign ups will be due November 2nd at 11:59 pm. Sign up here: <insert link>:`'
+    excerpt: 'Sign ups will be due November 2nd at 11:59 pm. Sign up at the link below!'
 ---
 
-##### CrabSO was created in mind to give Division B (middle school) students another invitational to compete at before their regionals and/or state competitions as well as provide Marylanders another in-state competition.
+# Event Supervisor Applications are now open for the 2026 CrabSO Invitational!
 
-CrabSO is part of Chesapeake Stem Connections, a 501(c)(3) registered Maryland based nonprofit dedicated to supporting up and coming middle school Science Olympiad teams in Maryland. All proceeds from CrabSO are being processed by Chesapeake Stem Connections and will be reinvested back into Chesapeake Stem Connections endeavors such as financially supporting Maryland teams, providing workshops, and funding future in-person competitions.
+The 2026 CrabSO Invitational will be held on **Saturday, January 24th, 2026** at Clarksville Middle School.
 
-
-<!-- {% include feature_row id="intro" type="center" %} -->
-
-{% include feature_row %}
-
-{% include feature_row id="feature_row2" type="center" %}
-
-{% include feature_row id="feature_row3" type="center" %}
-
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="es_signups" type="center" %}
