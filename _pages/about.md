@@ -13,12 +13,15 @@ picRowD1:
   - image_path: /assets/images/directors/sahana.jpg
     alt: "Sahana"
     title: "Sahana"
+    exerpt: "Sahana is a senior at River Hill High School in Clarksville, Maryland. This is her 7th year in Science Olympiad and she specializes in Microbe Mission, Disease Detectives, Codebusters, and Anatomy and Physiology. Her favorite Science Olympiad memory is participating in Nationals for the first time in 2022–and winning two medals!"
   - image_path: /assets/images/directors/ananya.jpg
     alt: "Ananya"
     title: "Ananya"
+    exerpt: "Ananya is a junior at River Hill High School in Clarksville, Maryland. This is her 6th year in Science Olympiad. She specializes in Forensics, Astronomy, Geologic Mapping, and Forestry. Her favorite Science Olympiad experiences include participating in the 2022 and 2023 National tournaments and travelling to Kansas to compete."
   - image_path: /assets/images/directors/reema.jpg
     alt: "Reema"
     title: "Reema"
+    exerpt: "Reema is a freshman neuroscience major at University of Maryland, College Park. She has extensive experience in Science Olympiad, having competed since seventh grade. She has primarily focused on life science events such as Anatomy and Physiology, Microbe Mission, and Entomology. Reema has also participated in a variety of events such as Green Generation, Heredity, and Ornithology. She is passionate about exploring different STEM fields and values the collaborative team environment. Among her favorite Science Olympiad memories are exploring unique campuses with cutting-edge labs, including Princeton and Johns Hopkins University, with her teammates."
 
 picRowD2:
   - image_path: /assets/images/crabso.png
@@ -30,17 +33,21 @@ picRowD2:
   - image_path: /assets/images/directors/aadarsh.jpg
     alt: "Aadarsh"
     title: "Aadarsh"
+    exerpt: "Aadarsh is a senior at Mt. Hebron High School in Ellicott City, Maryland. He's been in Science Olympiad for 4 years and does Detector Building, Robot Tour, Fermi Questions, and Electric Vehicle. He finds it very funny when his friends are panicking and making last minute adjustments to their builds because they had no idea what they were doing."
 
 picRowD3:
   - image_path: /assets/images/directors/maya.jpg
     alt: "Maya"
     title: "Maya"
+    exerpt: "Maya is a senior at Atholton High School in Columbia, Maryland. She has been a part of Science Olympiad for the past 7 years, and specializes in Write it Do it, Scrambler, Helicopter, and Air Trajectory. Her favorite Science Olympiad memories are qualifying for Nationals in 2022 and playing in the broken elevators with her teammates at States."
   - image_path: /assets/images/directors/catherine.jpg
     alt: "Catherine"
     title: "Catherine"
+    exerpt: Catherine is a senior at River Hill High School in Clarksville, Maryland. She has done Science Olympiad for 7 years and specializes in Fossils, Dynamic Planet and Codebusters. Her favorite Science Olympiad experience is sprinting across college campuses with her friends. 
   - image_path: /assets/images/crabso.png
     alt: "Chloe"
     title: "Chloe"
+    exerpt: "Chloe is a sophmore computer science major at University of Maryland, Baltimore County. She specialized in build events (and Game On) as a competitor, and now ESes for build events and assorted inquiry events (sadly no Game On). Her last-minute-build tool of choice remains a hot glue gun to this day, though recent innovations with packing tape are quickly closing the distance... 🤔"
 
 Director_Title:
  - title: "Tournament Directors"
