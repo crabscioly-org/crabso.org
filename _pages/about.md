@@ -30,6 +30,7 @@ picRowD2:
   - image_path: /assets/images/crabso.png
     alt: "Rishit"
     title: "Rishit"
+    excerpt: "Rishit is a senior at Centennial High School in Ellicott City, Maryland. This is his 4th year in Science Olympiad, and he specializes in Experimental Design, Codebusters, EngineeringCAD, Robot Tour, and Electric Vehicle. His favorite science olympiad memory is participating in Nationals for the first time in 2025."
   - image_path: /assets/images/directors/aadarsh.jpg
     alt: "Aadarsh"
     title: "Aadarsh"
