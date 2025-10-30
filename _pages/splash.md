@@ -9,15 +9,15 @@ header:
 excerpt: "Maryland Division B Science Olympiad Invitational"
 
 register_signups:
-    title: "Registration Opens 11/22"
-    excerpt: 'Registration will be due December 10th 11:59 pm.'
+  - title: "Invitational Registration (Coming Soon!)"
+    excerpt: 'Sign-ups will be open from November 22nd to December 10th, 2025.'
 es_signups:
   - title: "2025 Tests & Keys"
     btn_label: "ES Sign-Ups"
     btn_class: "btn--primary"
     url: /es-link
-    title: "Event Supervisor Application Opens 10/20"
-    excerpt: 'Sign ups will be due November 2nd at 11:59 pm. Sign up at the link below!'
+    title: "Event Supervisor Application"
+    excerpt: 'Applications are due November 14th, 2025 at 11:59 pm. Sign up at the link below!'
 ---
 
 # Event Supervisor Applications are now open for the 2026 CrabSO Invitational!
@@ -25,3 +25,5 @@ es_signups:
 The 2026 CrabSO Invitational will be held on **Saturday, January 24th, 2026** at Clarksville Middle School.
 
 {% include feature_row id="es_signups" type="center" %}
+
+{% include feature_row id="register_signups" type="center" %}
