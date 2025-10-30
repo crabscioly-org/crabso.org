@@ -25,5 +25,3 @@ es_signups:
 The 2026 CrabSO Invitational will be held on **Saturday, January 24th, 2026** at Clarksville Middle School.
 
 {% include feature_row id="es_signups" type="center" %}
-
-{% include feature_row id="register_signups" type="center" %}
