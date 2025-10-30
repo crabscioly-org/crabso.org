@@ -24,13 +24,14 @@ picRowD1:
     excerpt: "Reema is a freshman neuroscience major at University of Maryland, College Park. She has extensive experience in Science Olympiad, having competed since seventh grade. She has primarily focused on life science events such as Anatomy and Physiology, Microbe Mission, and Entomology. Reema has also participated in a variety of events such as Green Generation, Heredity, and Ornithology. She is passionate about exploring different STEM fields and values the collaborative team environment. Among her favorite Science Olympiad memories are exploring unique campuses with cutting-edge labs, including Princeton and Johns Hopkins University, with her teammates."
 
 picRowD2:
-  - image_path: /assets/images/crabso.png
+  - image_path: /assets/images/directors/anna.jpg
     alt: "Anna"
     title: "Anna"
+    excerpt: "Anna is a junior at Atholton High School in Columbia, Maryland. She has been involved in Science Olympiad for 3 years, focusing on events such as Disease Detectives, Codebusters, and Astronomy. Some of her favorite experiences include exploring college campuses and spending time with friends during competition breaks."
   - image_path: /assets/images/crabso.png
     alt: "Rishit"
     title: "Rishit"
-    excerpt: "Rishit is a senior at Centennial High School in Ellicott City, Maryland. This is his 4th year in Science Olympiad, and he specializes in Experimental Design, Codebusters, EngineeringCAD, Robot Tour, and Electric Vehicle. His favorite science olympiad memory is participating in Nationals for the first time in 2025."
+    excerpt: "Rishit is a senior at Centennial High School in Ellicott City, Maryland. This is his 4th year in Science Olympiad, and he specializes in Experimental Design, Codebusters, Engineering CAD, Robot Tour, and Electric Vehicle. His favorite Science Olympiad memory is participating in Nationals for the first time in 2025."
   - image_path: /assets/images/directors/aadarsh.jpg
     alt: "Aadarsh"
     title: "Aadarsh"
@@ -44,11 +45,11 @@ picRowD3:
   - image_path: /assets/images/directors/catherine.jpg
     alt: "Catherine"
     title: "Catherine"
-    excerpt: Catherine is a senior at River Hill High School in Clarksville, Maryland. She has done Science Olympiad for 7 years and specializes in Fossils, Dynamic Planet and Codebusters. Her favorite Science Olympiad experience is sprinting across college campuses with her friends. 
+    excerpt: "Catherine is a senior at River Hill High School in Clarksville, Maryland. She has done Science Olympiad for 7 years and specializes in Fossils, Dynamic Planet and Codebusters. Her favorite Science Olympiad experience is sprinting across college campuses with her friends."
   - image_path: /assets/images/crabso.png
     alt: "Chloe"
     title: "Chloe"
-    excerpt: "Chloe is a sophmore computer science major at University of Maryland, Baltimore County. She specialized in build events (and Game On) as a competitor, and now ESes for build events and assorted inquiry events (sadly no Game On). Her last-minute-build tool of choice remains a hot glue gun to this day, though recent innovations with packing tape are quickly closing the distance... 🤔"
+    excerpt: "Chloe is a sophmore computer science major at University of Maryland, Baltimore County. She has been involved with Science Olympiad for the past 8 years. She specialized in build events (and Game On) as a competitor, and now ESes for build events and assorted inquiry events (sadly no Game On). Her last-minute-build tool of choice remains a hot glue gun to this day, though recent innovations with packing tape are quickly closing the distance... 🤔"
 
 Director_Title:
  - title: "Tournament Directors"
