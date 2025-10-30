@@ -64,11 +64,11 @@ author:
 footer:
   links:
     - label: "Scilympiad"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-flask"
       url: "https://scilympiad.com/crabso"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-instagram"
       url: "https://instagram.com/crab.so"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-square-linkedin"
       url: "https://www.linkedin.com/company/crabso/about"
