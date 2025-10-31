@@ -28,7 +28,7 @@ picRowD2:
     alt: "Anna"
     title: "Anna"
     excerpt: "Anna is a junior at Atholton High School in Columbia, Maryland. She has been involved in Science Olympiad for 3 years, focusing on events such as Disease Detectives, Codebusters, and Astronomy. Some of her favorite experiences include exploring college campuses and spending time with friends during competition breaks."
-  - image_path: /assets/images/crabso.png
+  - image_path: /assets/images/directors/rishit.jpg
     alt: "Rishit"
     title: "Rishit"
     excerpt: "Rishit is a senior at Centennial High School in Ellicott City, Maryland. This is his 4th year in Science Olympiad, and he specializes in Experimental Design, Codebusters, Engineering CAD, Robot Tour, and Electric Vehicle. His favorite Science Olympiad memory is participating in Nationals for the first time in 2025."
