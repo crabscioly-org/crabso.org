@@ -4,5 +4,5 @@ permalink: /registration-link/
 layout: shortlink
 ---
 {::nomarkdown}
-https://crabso.org/registration/
+https://scilympiad.com/crabso
 {:/}
