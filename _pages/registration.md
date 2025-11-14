@@ -14,15 +14,11 @@ intro:
 # Registration is now open for the 2026 CrabSO Invitational!
 
 
----
-layout: single
-title: "2026 Competitions"
-permalink: /2026-competitions/
----
+
+
 
 # In-person Competition
 
-{: .notice--info}
 **When:** January 24th, 2026
 **Where:**  
 Clarksville Middle School  
@@ -61,7 +57,7 @@ Title I schools: email [crabscioyl@gmail.com](mailto:crabscioyl@gmail.com) with 
 **Registration Deadline:**  
 January 9th, 2026 @ 11:59 PM EST.  
 Payments (checks, cash, Scilympiad Paypal) must be dated by the deadline to be fully registered.
-
+---
 ---
 tourna_registration:
   - title: "2025 Tests & Keys"
