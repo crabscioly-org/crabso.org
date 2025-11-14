@@ -13,11 +13,8 @@ register_signups:
     excerpt: 'Sign-ups will be open from November 22nd to December 10th, 2025.'
 es_signups:
   - title: "2025 Tests & Keys"
-    btn_label: "ES Sign-Ups"
-    btn_class: "btn--primary"
-    url: /es-link
-    title: "Event Supervisor Application"
-    excerpt: 'Applications are due November 14th, 2025 at 11:59 pm. Sign up at the link below!'
+    title: "The Event Supervisor application is closed!"
+    excerpt: 'Applications were due November 14th, 2025 at 11:59 pm.'
 tourna_registration:
   - title: "2025 Tests & Keys"
     btn_label: "Tournament Registration"
