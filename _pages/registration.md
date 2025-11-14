@@ -63,5 +63,5 @@ tourna_registration:
     title: "Register Here"
 ---
 
-{% include feature_row id="es_signups" type="center" %}
+{% include feature_row id="tourna_registration" type="center" %}
 {% include feature_row id="intro" type="center" %}
