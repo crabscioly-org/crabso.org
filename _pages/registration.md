@@ -13,7 +13,13 @@ intro:
 
 # Registration is now open for the 2026 CrabSO Invitational!
 
-
+tourna_registration:
+  - title: "2025 Tests & Keys"
+    btn_label: "Tournament Registration"
+    btn_class: "btn--primary"
+    url: /registration-link
+    title: "Register Here"
+    
 ---
 layout: single
 title: "2026 Competitions"
@@ -39,8 +45,6 @@ Payments (checks, cash, Scilympiad Paypal) must be dated by the deadline to coun
 **Note**  
 If in-person registration is full, email [crabscioyl@gmail.com](mailto:crabscioyl@gmail.com) to join the **first-come, first-serve waitlist**. Waitlist movement will continue until **January 12th, 2026 @ 11:59 PM EST**, if any registered teams drop out.
 
----
-
 # Satellite Competition
 
 {: .notice--info}
@@ -54,13 +58,7 @@ $75 per team (6 teams per school cap). Title I schools: email [crabscioyl@gmail.
 January 9th, 2026 @ 11:59 PM EST.  
 Payments (checks, cash, Scilympiad Paypal) must be dated by the deadline to be fully registered.
 
----
-tourna_registration:
-  - title: "2025 Tests & Keys"
-    btn_label: "Tournament Registration"
-    btn_class: "btn--primary"
-    url: /registration-link
-    title: "Register Here"
+
 ---
 
 {% include feature_row id="tourna_registration" type="center" %}
