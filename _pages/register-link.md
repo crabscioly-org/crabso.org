@@ -4,5 +4,5 @@ permalink: /register-link/
 layout: shortlink
 ---
 {::nomarkdown}
-https://www.youtube.com/watch?v=a6zKohQnFJk\
+https://scilympiad.com/crabso
 {:/}
