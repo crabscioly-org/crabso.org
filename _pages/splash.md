@@ -11,10 +11,6 @@ excerpt: "Maryland Division B Science Olympiad Invitational"
 register_signups:
   - title: "Invitational Registration (Coming Soon!)"
     excerpt: 'Sign-ups will be open from November 22nd to December 10th, 2025.'
-es_signups:
-  - title: "2025 Tests & Keys"
-    title: "The Event Supervisor application is closed!"
-    excerpt: 'Applications were due November 14th, 2025 at 11:59 pm.'
 tourna_registration:
   - title: "2025 Tests & Keys"
     btn_label: "Tournament Registration"
@@ -36,5 +32,3 @@ The 2026 Sattelite CrabSO Invitational will be held on **January 24th, 2026 8:00
   <h3>Event Supervisor applications are closed.</h3>
   <h6>Thank you for your interest!</h6>
 </div>
-
-{% include feature_row id="es_signups" type="center" %}
