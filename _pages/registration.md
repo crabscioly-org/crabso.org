@@ -17,7 +17,7 @@ tourna_registration:
   - title: "2025 Tests & Keys"
     btn_label: "Tournament Registration"
     btn_class: "btn--primary"
-    url: /registration-link
+    url: "https://scilympiad.com/crabso"
     title: "Register Here"
     
 ---
