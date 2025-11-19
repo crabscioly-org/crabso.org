@@ -4,6 +4,14 @@ Please please please remember to use branches; nobody should be committing strai
 
 # Running Locally
 
+Run ./serve.sh to run the site locally. The site loads at http://localhost:4000
+```./serve.sh```
+
+Or for a Windows environment, set the RUBYOPT environment variable to disable SSL verification:
+setx RUBYOPT '-r./disable_ssl.rb'
+Then, run ```bundle exec jekyll serve``` to run the site locally.
+
+The following commands no longer work, as they require a valid SSL certificate. 
 ```bundle install
 bundle exec jekyll serve
 ```

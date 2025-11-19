@@ -19,11 +19,6 @@ tourna_registration:
     btn_class: "btn--primary"
     url: "https://scilympiad.com/crabso"
     title: "Register Here"
-    
----
-layout: single
-title: "2026 Competitions"
-permalink: /2026-competitions/
 ---
 
 # In-person Competition
