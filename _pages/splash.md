@@ -20,12 +20,12 @@ volunteering:
     excerpt: "Join us at Clarksville Middle School!"
     btn_label: "Volunteer In-Person"
     btn_class: "btn--info"
-    url: "https://inperson.com"
+    url: "https://www.signupgenius.com/go/10C044CA5A72FA5FCC61-60778799-crabso"
   - title: "Satellite Volunteering"
     excerpt: "Support us remotely!"
-    btn_label: "Volunteer Satellite"
+    btn_label: "Volunteer Satellite (see Online)"
     btn_class: "btn--info"
-    url: "https://satellite.com"
+    url: "https://www.signupgenius.com/go/10C044CA5A72FA5FCC61-60778799-crabso"
 ---
 
 <div style="text-align: center; margin-bottom: 2em;">
