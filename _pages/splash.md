@@ -18,12 +18,12 @@ tourna_registration:
 volunteering:
   - title: "In-Person Volunteering"
     excerpt: "Join us at Clarksville Middle School!"
-    btn_label: "Volunteer In-Person"
+    btn_label: "Volunteer In-Person (see in-person sections)"
     btn_class: "btn--info"
     url: "https://www.signupgenius.com/go/10C044CA5A72FA5FCC61-60778799-crabso"
   - title: "Satellite Volunteering"
     excerpt: "Support us remotely!"
-    btn_label: "Volunteer Satellite (see Online)"
+    btn_label: "Volunteer Satellite (see online sections)"
     btn_class: "btn--info"
     url: "https://www.signupgenius.com/go/10C044CA5A72FA5FCC61-60778799-crabso"
 ---
