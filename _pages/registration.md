@@ -30,14 +30,14 @@ tourna_registration:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clarksville, Maryland, United States 21029  
 **Cost:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$110 per team (3 teams per school cap).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title I schools: email [crabscioyl@gmail.com](mailto:crabscioyl@gmail.com) with proof of Title I status by **December 22, 2025 @ 11:59 PM EST** for fee waiver.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title I schools: email [crabscioly@gmail.com](mailto:crabscioly@gmail.com) with proof of Title I status by **December 22, 2025 @ 11:59 PM EST** for fee waiver.  
 **Capacity:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40 teams — first come, first serve.  
 **Registration Deadline:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;December 22, 2025 @ 11:59 PM EST, *or when capacity is reached*, whichever comes first.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payments (checks, cash, Scilympiad Paypal) must be dated by the deadline to count as fully registered.
 **Note**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If in-person registration is full, email [crabscioyl@gmail.com](mailto:crabscioyl@gmail.com) to join the **first-come, first-serve waitlist**. Waitlist movement will continue until **January 12th, 2026 @ 11:59 PM EST**, if any registered teams drop out.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If in-person registration is full, email [crabscioly@gmail.com](mailto:crabscioly@gmail.com) to join the **first-come, first-serve waitlist**. Waitlist movement will continue until **January 12th, 2026 @ 11:59 PM EST**, if any registered teams drop out.
 
 # Satellite Competition
 
@@ -48,7 +48,7 @@ tourna_registration:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On **Scilympiad!**  
 **Cost:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$75 per team (6 teams per school cap).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title I schools: email [crabscioyl@gmail.com](mailto:crabscioyl@gmail.com) with proof of Title I status by **January 9th, 2026 @ 11:59 PM EST** to have registration fees waived.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title I schools: email [crabscioly@gmail.com](mailto:crabscioly@gmail.com) with proof of Title I status by **January 9th, 2026 @ 11:59 PM EST** to have registration fees waived.  
 **Registration Deadline:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;January 9th, 2026 @ 11:59 PM EST.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payments (checks, cash, Scilympiad Paypal) must be dated by the deadline to be fully registered.
